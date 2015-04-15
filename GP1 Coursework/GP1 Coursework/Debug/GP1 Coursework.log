@@ -1,0 +1,34 @@
+﻿Build started 15/04/2015 14:39:49.
+     1>Project "O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\GP1 Coursework\GP1 Coursework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         O:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         O:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\Debug\GP1 Coursework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\Debug\GP1 Coursework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\Debug\GP1 Coursework.lib" /MACHINE:X86 Debug\asteroidsGame.obj
+         Debug\cAsteroid.obj
+         Debug\cBkGround.obj
+         Debug\cBullet.obj
+         Debug\cFont.obj
+         Debug\cFontMgr.obj
+         Debug\cInputMgr.obj
+         Debug\cRocket.obj
+         Debug\cSound.obj
+         Debug\cSoundMgr.obj
+         Debug\cSprite.obj
+         Debug\cTexture.obj
+         Debug\cWNDManager.obj
+         Debug\main.obj
+         Debug\windowOGL.obj
+         Libraries\alut.lib
+         Libraries\DevIL.lib
+         Libraries\freeglut.lib
+         Libraries\ftgl.lib
+         Libraries\ILU.lib
+         Libraries\ILUT.lib
+         Libraries\OpenAL32.lib
+         GP1 Coursework.vcxproj -> O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\Debug\GP1 Coursework.exe
+     1>Done Building Project "O:\Users\Matthew\Documents\Uni Work\2nd Year\Games Programming 1\GP1 Project Folder\GP1 Coursework\GP1 Coursework\GP1 Coursework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
